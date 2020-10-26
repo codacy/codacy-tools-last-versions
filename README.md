@@ -8,7 +8,7 @@ In order to use, you first need to install dependencies with the following comma
 
     npm install
 
-When dependencies installation finishes and before running the tool, you need to add a GitHub Token with `read:org` to the environment variables:
+When dependencies installation finishes and before running the tool, you need to add a GitHub Token with `repo` to the environment variables:
 
     export GITHUB_TOKEN=<YOUR_GITHUB_TOKEN>
 
